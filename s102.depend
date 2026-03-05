@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1764792397 source:c:\users\gbamazi\documents\code c++\inidev 2\projet\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1766142275 source:c:\users\gbamazi\documents\code c++\inidev 2\projet\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Personnage.h"
+	"Image.h"
+	"Avatar.h"
+	"Ennemi.h"
+	"Dictionnaire.h"
+	"test.h"
+	<stdexcept>
+
+1765523003 source:c:\users\gbamazi\documents\code c++\inidev 2\projet\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1765535894 source:c:\users\gbamazi\documents\code c++\inidev 2\projet\s102\src\personnage.cpp
+	"Personnage.h"
+	"Moteur.h"
+	<stdlib.h>
+
+1765535227 source:c:\users\gbamazi\documents\code c++\inidev 2\projet\s102\src\avatar .cpp
+	"Personnage.h"
+	"Ennemi.h"
+	"Avatar.h"
+	"Moteur.h"
+	<stdlib.h>
+
+1765535256 source:c:\users\gbamazi\documents\code c++\inidev 2\projet\s102\src\ennemi.cpp
+	"Ennemi.h"
+	"Personnage.h"
+	"Moteur.h"
+
+1766144059 source:c:\users\gbamazi\documents\code c++\inidev 2\projet\s102\src\tuile.cpp
+	"Tuile.h"
+	<stdlib.h>
+	<iostream>
+
+1766143011 source:c:\users\gbamazi\documents\code c++\inidev 2\projet\s102\src\dictionnaire.cpp
+	"Tuile.h"
+	"Dictionnaire.h"
+	<fstream>
+	<iostream>
+
+1766142637 source:c:\users\gbamazi\documents\code c++\inidev 2\projet\s102\src\test.cpp
+	<string>
+	<iostream>
+	<vector>
+	"Dictionnaire.h"
+	"Tuile.h"
+
+1766142787 source:c:\users\gbamazi\documents\code c++\inidev 2\projet\s102\src\objet.cpp
+
